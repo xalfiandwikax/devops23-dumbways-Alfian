@@ -18,4 +18,22 @@
 - sheel : sytax terbatas, tidak mendukung looping, sederhana
 - bash : mendukung looping, mendukung aray
 
-3. 
+3. - mkdir = Make Directori membuat direktori (folder) contoh mkdir alfian
+   - ls -la = Untuk melihat list di dalam direktori serta detail akses dan kepemilikan user
+   - pwd = untuk melihat posisi direktori saat ini
+   - rmdir = remove direktori
+   - rm -rf = untuk menghapus file atau folder secara permanen
+   - cd = Change direktori untuk masuk kedalam direktori
+   - sudo = untuk mengubah akses menjadi admin
+   - cd .. = untuk mundur 1 langkah dari folder
+   - cd ~/ = untuk balik ke folder home
+   - cp = untuk copy sebuah file
+   - chmod = mengubah permision drwx--rwx dll / kode permision 7:read+write+execute (rwx) 6: read+write (rw-) 5: read+execute (r-x)
+   - chown = mengubah kepemilikan user
+   - zypper = kalau dengan ubuntu adalah apt untuk manajement paket ( sudo apt update == sudo zypper update : untuk opensuse)
+   - touch = membuat file
+   - mv = untuk memindahkan sebuah file atau direktori dan juga mengubah nama
+   - cat = menampilkan isi file
+   - nano = menampilkan texteditor bawaan linux
+   - find = untuk menacari sebuah file berdasarkan nama
+   - grep = mencari text di dalam file
