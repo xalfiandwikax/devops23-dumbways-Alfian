@@ -1,4 +1,4 @@
-# 1. Penjelasan tentang Git
+## 1. Penjelasan tentang Git
 
 **Git** adalah sistem **version control terdistribusi**  untuk melacak perubahan kode sumber selama pengembangan software
 ## Konsep Dasar Git
@@ -27,7 +27,7 @@
 5. **Staging Area**  
    - Area persiapan sebelum commit (`git add .`). 
 
-# 2. Buat sebuah repository bernama "dumbways-batch-23" yang berisi 3 file
+## 2. Buat sebuah repository bernama "dumbways-batch-23" yang berisi 3 file
 
 1. Login ke akun GitHub
 2. Buat repository baru dengan klik button **New Repository**
@@ -54,5 +54,15 @@ git push origin master
 
 
 
+## 3 Manage Repository Tugas (devops23-dumbways-<nama>) via Terminal
+1. Buka terminal lalu masuk ke repositori yang yang ingin anda simpan repositori github 
+2. ketik perintah `git init devops23-dumbways-Alfian` perintah tersebut akan automatis membuat repositori dengan nama `devops23-dumbways-Alfian`.
+2. lalu masuk kedalam repositori devops23-dumbways-Alfian.
+3. lalu remote repositori yang berada di github kedalam local kita dengan perintah `git remote add -m  set-url origin git@github.com:xalfiandwikax/devops23-dumbways-Alfian.git`.
+4. lalu tarik semua repositori kedalam local kita dari Day1 s/d Day3 dengan perintah `git remote add -m  set-url origin git@github.com:xalfiandwikax/devops23-dumbways-Alfian.git`.
+5. lakukan perubahan 
+6. tambahkan file dan folder yang sudah baru dibuat dengan `git add .`
+7. lakukan commit dengan `git commit -m "message"`
+8. setelah selesai lakukan push dengan `git push origin <nama-branch>`
 
-![mkdir](image/pull_request%20_git.jpeg)
+![mkdir](image/pull_request%20_git.jpeg) > ![git-manage](image/managegithub1.png)
