@@ -39,11 +39,11 @@
    git init dumbways-batch-23 
    git remote add origin git@github.com:xalfiandwikax/dumbways-batch-23
    ```
-![git.init](img/git_init.png) > ![git.remote](img/git_remote.png)
+![git_init](image/git_init.png) > ![git_remote](image/git_commit.png)
 6. buat 3 file, lalu push ke repository menggunakan command:
 
 ```bash
-touch file1.txt file2.txt file3.txt
+touch file1 file2 file3
 git add .
 git commit -m "pesan"
 git push origin master
