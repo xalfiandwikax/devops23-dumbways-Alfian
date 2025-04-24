@@ -29,4 +29,4 @@
 
 # 2. Buat sebuah repository bernama "dumbways-batch-23" yang berisi 3 file
 
-<img src="image/pull_request_git.jpeg" alt="Contoh Commit" width="300"/>
+<img src="devops23-dumbways-Alfian/image/pull_request_git.jpeg" alt="Contoh Commit" width="300"/>
