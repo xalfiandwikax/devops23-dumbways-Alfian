@@ -29,4 +29,4 @@
 
 # 2. Buat sebuah repository bernama "dumbways-batch-23" yang berisi 3 file
 
-![pull reguest](/image/pull_request_git.jpeg)
+![pullrequest](image/pull_request_git.jpeg)
