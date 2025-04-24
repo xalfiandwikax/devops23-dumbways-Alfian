@@ -39,7 +39,10 @@
    git init dumbways-batch-23 
    git remote add origin git@github.com:xalfiandwikax/dumbways-batch-23
    ```
-![git_init](image/git_init.png) > ![git_remote](image/git_commit.png)
+![git_init](image/git_init.png) > ![git_remote](image/git_remote.png)
+> ![git_comit](image/git_commit.png) >  
+
+
 6. buat 3 file, lalu push ke repository menggunakan command:
 
 ```bash
