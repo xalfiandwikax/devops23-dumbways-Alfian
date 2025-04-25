@@ -68,7 +68,7 @@ tcp   LISTEN 0      128                 [::]:6969          [::]:*    users:(("ss
 xalfiandwikax@localhost:/etc/ssh> 
 
 ```
-6. kita coba remote dari client menggunakan termux, sebulum remote kita pastikan kita sudah mengubah port di file config menjadi ```6969``` sehingga berhasil untuk meremote.
+6. kita coba remote dari client menggunakan termux, sebulum remote kita pastikan kita sudah mengubah port di file config menjadi ```6969``` sehingga berhasil untuk meremote. >
 ![remote.6969](img/remote%20port%206969.jpeg)
 
 
