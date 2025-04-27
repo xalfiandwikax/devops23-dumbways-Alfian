@@ -59,7 +59,7 @@ git push origin master
 2. ketik perintah `git init devops23-dumbways-Alfian` perintah tersebut akan automatis membuat repositori dengan nama `devops23-dumbways-Alfian`.
 2. lalu masuk kedalam repositori devops23-dumbways-Alfian.
 3. lalu remote repositori yang berada di github kedalam local kita dengan perintah `git remote add -m  set-url origin git@github.com:xalfiandwikax/devops23-dumbways-Alfian.git`.
-4. lalu tarik semua repositori kedalam local kita dari Day1 s/d Day3 dengan perintah `git remote add -m  set-url origin git@github.com:xalfiandwikax/devops23-dumbways-Alfian.git`.
+4. lalu tarik semua repositori kedalam local kita dari Day1 s/d Day3 dengan perintah ```git pull orogin master ```
 5. lakukan perubahan 
 6. tambahkan file dan folder yang sudah baru dibuat dengan `git add .`
 7. lakukan commit dengan `git commit -m "message"`
