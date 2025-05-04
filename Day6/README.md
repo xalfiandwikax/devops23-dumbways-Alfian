@@ -36,5 +36,6 @@
                 }
 
    ```
+   - buat symlink dengan perintah ```sudo ln -s /etc/nginx/sites-available/alfian.conf /etc/nginx/sites-enabled/```
    - buka di browser dengan new incognito dengan domain ``` alfian.xyz```
    - ![alt text](image-2.png)
