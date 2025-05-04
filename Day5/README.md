@@ -56,8 +56,8 @@
 ## 3. Deploy Golang 
 1. **install Golang**  
    - download file .tar.gz di website golang [golang](https://go.dev/dl/) menggunakan perintah ```wget https://go.dev/dl/go1.24.2.linux-amd64.tar.gz```
-   - buka dokumentasi instalasi golang>
-   ![alt text](image-8.png)
+   - buka dokumentasi instalasi golang
+   ![alt text](image-8.png)>
    -  masuk ke super user dengan perintah ```sudo su```
    -  ketik perintah ```rm -rf /usr/local/go && tar -C /usr/local -xzf go1.24.2.linux-amd64.tar.gz``` untuk mengextrax file .tar.gz
    - keluar dari super user dengan ```CTRL+d``` lalu ketik perintah ```export PATH=$PATH:/usr/local/go/bin``` untuk menambahkan PATH di environment variabel
